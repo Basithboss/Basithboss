@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basithboss
-- 👀 I’m interested in mobail application development
+- 👀 I’m interested in web application development
 - 🌱 I’m currently learning html,css and javascript
 - 📫 How to reach me become a Software Engineer in a reputed company
 
